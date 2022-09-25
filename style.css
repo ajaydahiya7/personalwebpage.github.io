@@ -331,7 +331,8 @@ nav .fa-regular{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(computer technology background_757430.jpg);
+        background-image: url(computer.jpg);
+        
     }
     .header-text{
         margin-top: 100%;
